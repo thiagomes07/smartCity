@@ -31,23 +31,27 @@
 
 ## Configuração da Interface Online
 
-Uma interface online será desenvolvida para permitir o monitoramento e ajuste do comportamento dos semáforos. Com esta interface, o usuário poderá:
+&ensp;Uma interface online será desenvolvida para permitir o monitoramento e ajuste do comportamento dos semáforos. Com esta interface, o usuário poderá:
 - Ativar ou desativar manualmente o "modo noturno".
 - Visualizar em tempo real os dados captados pelo sensor de luz (LDR) e pelo sensor de proximidade.
 - Ajustar configurações de operação, como o tempo máximo de abertura do semáforo da rua menor.
 
 ## Integração com ESP32 e Ubidots
 
-Para facilitar o monitoramento centralizado e permitir a comunicação entre os semáforos, cada um será equipado com um microcontrolador ESP32, que estará conectado a um dashboard no Ubidots. Essa integração permite:
+&ensp;Para facilitar o monitoramento centralizado e permitir a comunicação entre os semáforos, cada um será equipado com um microcontrolador ESP32, que estará conectado a um dashboard no Ubidots. Essa integração permite:
 - Visualizar o status de cada semáforo remotamente.
 - Ajustar o comportamento dos semáforos com base nos dados recebidos.
 - Otimizar o fluxo de veículos em toda a cidade, tornando o tráfego mais eficiente.
 
+## Demonstração do Funcionamento 
+
+&ensp;Segue a demonstração da cidade funcionando com os semáforos inteligentes e conectados:
+
 ## Documentação e Entrega
 
-Este repositório contém toda a documentação do projeto, incluindo:
+&ensp;Este repositório contém toda a documentação do projeto, incluindo:
 - Instruções para montagem física e eletrônica dos semáforos.
-- Código do sistema, com a lógica do `while` para detecção de veículos.
+- Código do sistema, com a lógica do _while_ para detecção de veículos.
 - Link para a interface online de controle e monitoramento.
 - Vídeo demonstrando o funcionamento do sistema em diferentes condições de tráfego e luminosidade.
 
