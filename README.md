@@ -46,6 +46,17 @@
 ## Demonstração do Funcionamento 
 
 &ensp;Segue a demonstração da cidade funcionando com os semáforos inteligentes e conectados:
+Confira o vídeo do protótipo 1 clicando no link abaixo:
+
+### Vídeo 1 - Sensor ultrassônico
+&ensp;Neste video é demonstrado o sensor ultrassônico em funcionamento, percebendo a presença de carros aguardando o no sêmaforo. <br>
+[Link do vídeo 1](./assets/video_prototipo_1.mp4)
+
+### Vídeo 2 - Sensor de luminosidade
+
+&ensp;A seguir, é demonstrado o funcionamento do sensor de luminosade, percebendo que está de noite e o fluxo de carros é menor, ativa o LED amarelo piscando, significando que o carro avançar, mas deve estar atento ao passar.<br>
+[Link do vídeo 2](./assets/video_prototipo_2.mp4)
+
 
 ## Documentação e Entrega
 
